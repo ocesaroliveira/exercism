@@ -17,7 +17,7 @@ My user is: **ocesaroliveira**
 * Go
 * Haskell
 * Java
-* JavaScript
+* JavaScript **√**
 * PHP **√**
 * lua
 * Objective-C
