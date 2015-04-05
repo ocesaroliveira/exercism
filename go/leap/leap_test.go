@@ -2,11 +2,6 @@ package leap
 
 import "testing"
 
-// Define a function IsLeapYear(int) bool.
-//
-// Also define an exported TestVersion with a value that matches
-// the internal testVersion here.
-
 const testVersion = 1
 
 // Retired testVersions
