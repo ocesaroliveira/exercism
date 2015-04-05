@@ -38,10 +38,6 @@ Bob.prototype.hey = function(input) {
         return 'Whoa, chill out!';
     }
 
-    if (this.areJustNumbers(input)) {
-        return 'Whatever.';
-    }
-
     return 'Whatever.';
 };
 
