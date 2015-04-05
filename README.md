@@ -14,7 +14,7 @@ My user is: **ocesaroliveira**
 * Elixir
 * Erlang
 * F#
-* Go
+* Go **√**
 * Haskell
 * Java
 * JavaScript **√**
