@@ -2,7 +2,8 @@
 
 function distance($a, $b)
 {
-    if (strlen($a) != strlen($b)) {
+    $aLength = strlen($a);
+    if ($aLength != strlen($b)) {
         throw new InvalidArgumentException('DNA strands must be of equal length.');
     }
     $count = 0;
