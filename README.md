@@ -26,7 +26,7 @@ My user is: **ocesaroliveira**
 * PL/SQL
 * Python
 * R
-* Ruby
+* Ruby **√**
 * Scala
 * Swift
 
